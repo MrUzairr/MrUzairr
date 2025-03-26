@@ -1,38 +1,40 @@
-## 🌟 **Muhammad Uzair - Passionate Web Developer**  
-**🚀 Full-Stack Developer | Laravel | React | Vue | Next.js | TypeScript**  
+### 🚀 **Muhammad Uzair - Passionate Web Developer**  
+**Full-Stack Developer | Laravel | React | Vue | Next.js | TypeScript**  
 📍 **Pakistan**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-uzair--portfolio--site.netlify.app-blue?style=for-the-badge)](https://uzair-portfolio-site.netlify.app/)  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1DLNzvDeQ4iLAZ2k3eBVosI8zSupsY8FI/view?usp=sharing)  
 [![Email](https://img.shields.io/badge/Email-uzairakhtar100%40gmail.com-red?style=for-the-badge)](mailto:uzairakhtar100@gmail.com)  
+![Profile Views](https://komarev.com/ghpvc/?username=mruzairr&color=blue&style=flat-square)  
 
 ---
 
 ### 👋 **About Me**  
-Hi! I'm **Muhammad Uzair**, a dedicated and results-oriented **Full-Stack Web Developer**. I specialize in building **high-performance web applications** using **modern technologies**. My passion for coding, problem-solving, and continuous learning drives me to create **scalable, efficient, and user-friendly applications**.  
+Hey there! I'm **Muhammad Uzair**, a **passionate Full-Stack Web Developer** who loves turning ideas into **high-performing** and **scalable web applications**. With **3+ years** of experience, I specialize in **building modern, user-friendly applications** that make an impact.  
 
-🔹 **Experience**: 3+ years in web development  
-🔹 **Expertise**: Frontend & Backend Development, Database Management, API Integration  
-🔹 **Tech Stack**: Laravel, React, Vue.js, Next.js, TypeScript, TailwindCSS, Node.js  
-🔹 **Soft Skills**: Problem-Solving, Communication, Team Collaboration  
-🔹 **Interests**: Web Technologies, AI Integration, Open Source Contribution  
+💡 **I believe in clean code, problem-solving, and continuous learning!**  
+
+🛠 **What I Bring to the Table:**  
+✅ **Robust Frontend & Backend Development**  
+✅ **Performance Optimization & Scalability**  
+✅ **RESTful APIs & Third-Party Integrations**  
+✅ **SEO, Accessibility & Security Best Practices**  
+✅ **Team Collaboration & Leadership**  
+
+🔥 **Let's Build Something Amazing Together!** 🚀  
 
 ---
 
 ### 🌎 **Connect With Me**  
-<a href="https://twitter.com/uzairch06667733" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/muhammad-uzair-772538250" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/uzairakhtar100" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>  
+💼 **Let's Network:**  
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/uzairch06667733)  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/muhammad-uzair-772538250)  
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/uzairakhtar100)  
 
 ---
 
 ## 🛠 **Tech Stack & Tools**  
+Here are some of the technologies I **love working with**:  
 
 ### 🌐 **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -51,35 +53,20 @@ Hi! I'm **Muhammad Uzair**, a dedicated and results-oriented **Full-Stack Web De
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🛠️ **Dev Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
 ## 📈 **GitHub Stats & Activity**  
+✨ **Check out my GitHub activity & stats!**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mruzairr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mruzairr&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruzairr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mruzairr&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mruzairr&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mruzairr&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🏆 **Achievements & Certifications**  
+📜 **My Certifications & Learning Milestones:**  
 ✔️ **Laravel Web Development Certification** - Udemy  
 ✔️ **React & Next.js Advanced Course** - Coursera  
 ✔️ **TypeScript for Professionals** - Udacity  
@@ -87,10 +74,26 @@ Hi! I'm **Muhammad Uzair**, a dedicated and results-oriented **Full-Stack Web De
 ---
 
 ## 💡 **Projects & Contributions**  
-Here are some of the **cool projects** I've worked on:  
+🚀 **A glimpse of what I’ve built:**  
 
-🚀 **[AI Disease Prediction System](https://github.com/mruzairr/ai-disease-prediction)** - Predicts diseases based on symptoms using machine learning.  
-🎯 **[E-commerce Platform](https://github.com/mruzairr/ecommerce-laravel-react)** - Built with Laravel, React, and Stripe integration.  
-💼 **[Job Portal](https://github.com/mruzairr/job-portal-nextjs)** - A dynamic job search platform with advanced filters.  
+🏥 **[AI Disease Prediction System](https://github.com/mruzairr/ai-disease-prediction)**  
+> **A machine-learning-based system that predicts diseases based on symptoms.**  
+🔹 **Tech:** Python, Flask, ML Models  
 
-👉 **Want to collaborate?** Feel free to connect! 😊  
+📲 **[Telemedicine Platform](https://github.com/mruzairr/telemedicine-platform)**  
+> **A web-based solution connecting patients with doctors for virtual consultations.**  
+🔹 **Tech:** Laravel, Vue, Twilio API  
+
+🛍 **[E-commerce Platform](https://github.com/mruzairr/ecommerce-laravel-react)**  
+> **A complete online store with Stripe payment integration.**  
+🔹 **Tech:** Laravel, React, Tailwind  
+
+💼 **[Job Portal](https://github.com/mruzairr/job-portal-nextjs)**  
+> **A dynamic job search platform with advanced filtering options.**  
+🔹 **Tech:** Next.js, TypeScript, MongoDB  
+
+---
+
+### ✨ **Let’s Build Something Awesome Together!**  
+🔹 **Got a project idea? Looking for a skilled developer?**  
+📩 **Reach out anytime:** uzairakhtar100@gmail.com  
