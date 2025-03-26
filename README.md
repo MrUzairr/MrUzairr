@@ -27,9 +27,9 @@ Hey there! I'm **Muhammad Uzair**, a **passionate Full-Stack Web Developer** who
 
 ### 🌎 **Connect With Me**  
 💼 **Let's Network:**  
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/uzairch06667733)  
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/muhammad-uzair-772538250)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/uzairakhtar100)  
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="24" height="24">](https://twitter.com/uzairch06667733)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="24" height="24">](https://linkedin.com/in/muhammad-uzair-772538250)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="24" height="24">](https://instagram.com/uzairakhtar100)
 
 ---
 
