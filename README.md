@@ -1,7 +1,3 @@
-Here's a **detailed and professional** GitHub profile for you with an **engaging** and **informative** layout:  
-
----
-
 ## 🌟 **Muhammad Uzair - Passionate Web Developer**  
 **🚀 Full-Stack Developer | Laravel | React | Vue | Next.js | TypeScript**  
 📍 **Pakistan**  
