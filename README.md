@@ -82,7 +82,7 @@ Here are some of the technologies I **love working with**:
 
 📲 **[Telemedicine Platform](https://github.com/mruzairr/telemedicine-platform)**  
 > **A web-based solution connecting patients with doctors for virtual consultations.**  
-🔹 **Tech:** Laravel, Vue, Twilio API  
+🔹 **Tech:** Node, React, Twilio API, Genetic Algorithm  
 
 🛍 **[E-commerce Platform](https://github.com/mruzairr/ecommerce-laravel-react)**  
 > **A complete online store with Stripe payment integration.**  
