@@ -75,7 +75,7 @@ Machine Learning & AI
 > **A machine-learning-based system that predicts diseases based on symptoms.**  
 🔹 **Tech:** Python, Flask, ML Models  
 
-📲 **[Telemedicine Platform](https://github.com/mruzairr/telemedicine-platform)**  
+📲 **[Telemedicine Platform](https://github.com/mruzairr/telemedicine)**  
 > **A web-based solution connecting patients with doctors for virtual consultations.**  
 🔹 **Tech:** Node, React, Twilio API, Genetic Algorithm  
 
