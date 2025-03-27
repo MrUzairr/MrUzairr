@@ -71,7 +71,7 @@ Machine Learning & AI
 ## 💡 **Projects & Contributions**  
 🚀 **A glimpse of what I’ve built:**  
 
-🏥 **[AI Disease Prediction System](https://github.com/mruzairr/ai-disease-prediction)**  
+🏥 **[Damaging Car Detection System](https://github.com/MrUzairr/Damaging_Car_Detection_System_AI)**  
 > **A machine-learning-based system that predicts diseases based on symptoms.**  
 🔹 **Tech:** Python, Flask, ML Models  
 
@@ -79,13 +79,13 @@ Machine Learning & AI
 > **A web-based solution connecting patients with doctors for virtual consultations.**  
 🔹 **Tech:** Node, React, Twilio API, Genetic Algorithm  
 
-🛍 **[E-commerce Platform](https://github.com/mruzairr/ecommerce-laravel-react)**  
+🛍 **[Thrift Shop Platform](https://thrift-shop-app.netlify.app/)**  
 > **A complete online store with Stripe payment integration.**  
-🔹 **Tech:** Laravel, React, Tailwind  
+🔹 **Tech:** Node, Python, React, Tailwind  
 
-💼 **[Job Portal](https://github.com/mruzairr/job-portal-nextjs)**  
-> **A dynamic job search platform with advanced filtering options.**  
-🔹 **Tech:** Next.js, TypeScript, MongoDB  
+💼 **[Panda Cube](https://panda-cvxqf1mdo-mruzairrs-projects.vercel.app/)**  
+> **A dynamic Point of Sale platform with advanced filtering options.**  
+🔹 **Tech:** React.js, TypeScript, MongoDB  
 
 ---
 
