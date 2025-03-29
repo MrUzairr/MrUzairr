@@ -2,7 +2,7 @@
 **Full-Stack Developer | Laravel | React | Vue | Next.js | TypeScript**  
 📍 **Pakistan**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-uzair-25-portfolio.vercel.app-blue?style=for-the-badge)](https://uzair25portfolio.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-uzair25portfolio.vercel.app-blue?style=for-the-badge)](https://uzair25portfolio.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1DLNzvDeQ4iLAZ2k3eBVosI8zSupsY8FI/view?usp=sharing)  
 [![Email](https://img.shields.io/badge/Email-uzairakhtar100%40gmail.com-red?style=for-the-badge)](mailto:uzairakhtar100@gmail.com)  
 ![Profile Views](https://komarev.com/ghpvc/?username=mruzairr&color=blue&style=flat-square)  
